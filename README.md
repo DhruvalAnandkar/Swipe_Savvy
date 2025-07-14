@@ -1,4 +1,4 @@
-# 🚀 Swipe Savvy — Freemium Landing Flow
+# Swipe Savvy — Freemium Landing Flow
 
 This is a full-stack web application built as part of a 3-day technical assessment. It showcases a multi-step onboarding flow for small businesses to join the Swipe Savvy Rewards Network.
 
@@ -10,11 +10,11 @@ This is a full-stack web application built as part of a 3-day technical assessme
 
 **Swipe Savvy** allows local businesses to:
 
-- ✅ Claim their listing using Google Places
-- 📇 Verify their business details
-- 📝 Create an account
-- 📜 Agree to terms of participation
-- 🎉 Receive confirmation & choose to upgrade to a premium listing
+- Claim their listing using Google Places
+- Verify their business details
+- Create an account
+- Agree to terms of participation
+- Receive confirmation & choose to upgrade to a premium listing
 
 ---
 
@@ -65,13 +65,13 @@ This is a full-stack web application built as part of a 3-day technical assessme
 
 ## 📦 Features
 
-- 🔍 Google Places Autocomplete for business search
-- 📝 Dynamic account creation form
-- 📥 Supabase integration for secure data storage
-- 💌 Welcome email sent via Resend API
-- 💳 Stripe Checkout flow with post-confirmation upgrade
-- 📱 Fully responsive and mobile-friendly
-- 🎨 Framer Motion animations for smooth transitions
+- Google Places Autocomplete for business search
+- Dynamic account creation form
+- Supabase integration for secure data storage
+- Welcome email sent via Resend API
+- Stripe Checkout flow with post-confirmation upgrade
+- Fully responsive and mobile-friendly
+- Framer Motion animations for smooth transitions
 
 ---
 
