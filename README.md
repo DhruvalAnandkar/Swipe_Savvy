@@ -93,7 +93,7 @@ NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
 ```
 # 1. Clone the repo
-git clone https://github.com/your-username/swipe-savvy.git
+https://github.com/DhruvalAnandkar/Swipe_Savvy.git
 cd swipe-savvy
 
 # 2. Install dependencies
